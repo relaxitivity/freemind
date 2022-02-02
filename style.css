@@ -8,12 +8,13 @@
 }
 .child{
     
-    height: 80px;
-    width: 80px;
+    height: 200px;
+    width: 200px;
     background-color: red,orange,green,yellow;
 
 }
 .child1
 {
-    background-color: darkblue ;
+   background-color: bisque ;
+   flex-direction: row ;
 }
